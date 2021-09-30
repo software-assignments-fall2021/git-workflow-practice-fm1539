@@ -15,3 +15,6 @@ Comment: What I found fascinating about the article is that software engineers n
 ###Comment by Mark Zarutin
 This was an absolute pleasure to skim through on my way to class. As I am in the middle of whether to apply for masters in cs this was a very helpful article.
 
+
+<h> Comment by Sarah-Jane Clarke </h>
+<p>This article was very interseting to me because I am interested in the differnet positions people get promoted to after starting as an entry level software engineer and this article went into detail about the other potential positions I could hold in my future and what they do. It was very enlightening and made me excited for the future. </p>
